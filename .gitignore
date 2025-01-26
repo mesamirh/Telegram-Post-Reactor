@@ -1,0 +1,4 @@
+.env
+sessions/
+telegram_bot.log
+demo.json
